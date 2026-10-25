@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+anthropic
+easyocr
+pillow
+python-dotenv
